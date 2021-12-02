@@ -40,4 +40,4 @@ compared with simpler scheduling methods as well as the original schedule, which
 anism improves. This comparison showed similar performance to metric specific optimizing
 methods, while also maximizing the social benefit which includes surgeon valuations.
 
-[Download paper here](anduresu.github.io/files/MSc_Thesis_AndresOArredondo.pdf)
+[Download paper here](https://anduresu.github.io/files/MSc_Thesis_AndresOArredondo.pdf)

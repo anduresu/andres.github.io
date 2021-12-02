@@ -26,4 +26,4 @@ for various sets of operators and of the Longest Common Sub Sequence
 in function of the area of the dynamic program matrix relevant to the
 computation.
 
-[Download paper here](anduresu.github.io/files/spire2018.pdf)
+[Download paper here](https://anduresu.github.io/files/spire2018.pdf)
