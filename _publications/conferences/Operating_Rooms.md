@@ -2,8 +2,8 @@
 title: "Efficient Operating Rooms Usage and NO-GES Waiting List Management"
 collection: publications
 permalink: /publication/Operating_Rooms
-excerpt: 'Technical Study '
-date: 2018-10-01
+excerpt: 'Technical Study (Spanish)'
+date: 2020-12-01
 venue: 'Published in ISBN: 978-956-7725-13-7'
 ---
 
